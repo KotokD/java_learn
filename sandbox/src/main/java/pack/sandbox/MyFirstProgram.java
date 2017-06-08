@@ -1,9 +1,7 @@
 package pack.sandbox;
 
-public class MyFirstProgram
-{
-public static void main(String[] args)
-{
-System.out.println("Hello Word");
-}
+public class MyFirstProgram {
+  public static void main(String[] args) {
+    System.out.println("Hello Word");
+  }
 }
