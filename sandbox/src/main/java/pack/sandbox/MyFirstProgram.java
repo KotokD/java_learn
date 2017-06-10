@@ -2,14 +2,9 @@ package pack.sandbox;
 
 public class MyFirstProgram {
   public static void main(String[] args) {
-    Square s = new Square(5);
-    Rectangle k = new Rectangle();
-    k.a=5;
-    k.b=6;
-    area(k);
-    System.out.println( s.area());
-    System.out.println(area(k));
-
+    Point p1=new Point(2,5);
+    Point p2=new Point(0,8);
+    System.out.println(p1.distance(p1,p2));
   }
   public static void hello()
   {
