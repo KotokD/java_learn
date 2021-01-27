@@ -5,7 +5,6 @@ package pack.sandbox;
  */
 public class Square {
   public double l;
-  public double k;
   public Square(double len)
   {
     l=len;
