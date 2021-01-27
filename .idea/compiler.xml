@@ -8,6 +8,9 @@
       <module name="java_test" target="1.8" />
       <module name="koslo-test_main" target="1.8" />
       <module name="koslo-test_test" target="1.8" />
+      <module name="sandbox" target="1.8" />
+      <module name="sandbox.main" target="1.8" />
+      <module name="sandbox.test" target="1.8" />
       <module name="sandbox_main" target="1.8" />
       <module name="sandbox_test" target="1.8" />
       <module name="test_main" target="1.8" />

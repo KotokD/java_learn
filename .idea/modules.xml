@@ -6,9 +6,10 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_learn-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java_learn-test_test.iml" group="test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/koslo-test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/koslo-test_main.iml" group="koslo-test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/koslo-test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/koslo-test_test.iml" group="koslo-test" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox_main.iml" group="sandbox" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox_test.iml" group="sandbox" />
-      <module fileurl="file://C:\Users\User\Documents\GitHub\java_learn\.idea\modules\test.iml" filepath="C:\Users\User\Documents\GitHub\java_learn\.idea\modules\test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sandbox.test.iml" filepath="$PROJECT_DIR$/.idea/modules/sandbox.test.iml" />
+      <module fileurl="file://C:/Users/User/Documents/GitHub/java_learn/.idea/modules/test.iml" filepath="C:/Users/User/Documents/GitHub/java_learn/.idea/modules/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/test_main.iml" filepath="$PROJECT_DIR$/.idea/modules/test_main.iml" group="test" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/test_test.iml" filepath="$PROJECT_DIR$/.idea/modules/test_test.iml" group="test" />
     </modules>
