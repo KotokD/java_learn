@@ -7,7 +7,6 @@ public class Square {
   public double l;
   public double k;
   public double s;
-  public double ss;
   public Square(double len)
   {
     l=len;
